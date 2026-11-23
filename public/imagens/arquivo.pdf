@@ -1,1 +1,2 @@
-Aqui coloca arquivo ou imagem alvo
+Coloque aqui dentro os arquivos de imagem ou PDF usados pelo index.html.
+Lembre-se de usar o mesmo nome e extensao no src do HTML (ex: ./imagens/foto.jpg).
